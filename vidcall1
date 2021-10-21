@@ -8,7 +8,7 @@
   "tq_client": "",
   "status": "true",
   "priority": [{"ad": 1, "tq": 2}],
-  "interCount": 1,
+  "interSkip": 1,
   "backAds": "false",
   "splash_ads": "false"
 }
