@@ -20,6 +20,9 @@
   ],
   "tq_id": "615e4de608fe6c2d735d6fdc",
   "tq_client": "12147bc6-9a4a-4269-9df9-f7e9f5166e43",
+  "tq_inter": "default",
+  "tq_reward": "default",
+  "tq_native": "default",
   "status": "true",
   "priority": [
     {
