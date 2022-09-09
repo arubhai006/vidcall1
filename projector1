@@ -36,7 +36,7 @@
       "mob": 3
     }
   ],
-  "interClick": 2,
+  "interClick": 0,
   "backAds": "true",
   "splash_ads": "true"
 }
