@@ -1,22 +1,22 @@
 {
-  "app_id": "ca-app-pub-3940256099942544~3347511711",
+  "app_id": "",
   "open_id": [
-    "ca-app-pub-3940256099942544/3419835294"
+    "/6499/example/app-open"
   ],
   "banner_id": [
-    "ca-app-pub-3940256099942544/6300978111"
+    "/6499/example/banner"
   ],
   "interstitial_id": [
-    "ca-app-pub-3940256099942544/1033173712",
-    "ca-app-pub-3940256099942544/1033173712"
+    "/6499/example/interstitial",
+    "/6499/example/interstitial"
   ],
   "native_id": [
-    "ca-app-pub-3940256099942544/2247696110",
-    "ca-app-pub-3940256099942544/2247696110"
+    "/6499/example/native",
+    "/6499/example/native"
   ],
   "reward_id": [
-    "ca-app-pub-3940256099942544/5354046379",
-    "ca-app-pub-3940256099942544/5354046379"
+    "/6499/example/rewarded",
+    "/6499/example/rewarded"
   ],
   "tq_id": "615e4de608fe6c2d735d6fdc",
   "tq_client": "12147bc6-9a4a-4269-9df9-f7e9f5166e43",
