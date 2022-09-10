@@ -2,7 +2,7 @@
 "privacypolicy": "",
 "interclick": "3",
 "backinterclick": "3",
-"SplashAd": true,
+"SplashAd": "0",
 "Appopen": "1",
 "BackAd":  "1",
 "adfirst": "google",
