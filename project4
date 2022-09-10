@@ -27,9 +27,9 @@
 "cuinter": "Google",
 "cunative": "Google",
 "cubanner": "Google",
-"extradata": "Google",
-"intertoappopen": "true",
-"onetoone": "true",
+"extradata": {},
+"intertoappopen": true,
+"onetoone": true,
 "vpn": true,
 "url": "",
 "id": ""
