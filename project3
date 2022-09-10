@@ -1,6 +1,6 @@
 {
 "privacypolicy": "",
-"interclick": "1",
+"interclick": "0",
 "backinterclick": "2",
 "SplashAd": "0",
 "Appopen": "1",
@@ -29,7 +29,7 @@
 "cubanner": "Google",
 "extradata": {
 "intertoappopen": true,
-"onetoone": true,
+"onetoone": false,
 "vpn": true,
 "url": "",
 "id": ""
