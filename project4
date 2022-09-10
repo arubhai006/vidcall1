@@ -1,7 +1,7 @@
 {
 "privacypolicy": "",
-"interclick": "0",
-"backinterclick": "0",
+"interclick": "1",
+"backinterclick": "2",
 "SplashAd": "0",
 "Appopen": "1",
 "BackAd":  "1",
