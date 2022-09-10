@@ -28,7 +28,7 @@
 "cunative": "Google",
 "cubanner": "Google",
 "extradata": {
-"intertoappopen": false,
+"intertoappopen": true,
 "onetoone": false,
 "vpn": true,
 "url": "",
