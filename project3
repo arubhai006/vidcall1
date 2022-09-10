@@ -28,8 +28,8 @@
 "cunative": "Google",
 "cubanner": "Google",
 "extradata": {
-"intertoappopen": "1",
-"onetoone": "1",
+"intertoappopen": true,
+"onetoone": true,
 "vpn": true,
 "url": "",
 "id": ""
