@@ -1,7 +1,7 @@
 {
 "privacypolicy": "",
-"interclick": "0",
-"backinterclick": "0",
+"interclick": "1",
+"backinterclick": "2",
 "SplashAd": "0",
 "Appopen": "1",
 "BackAd":  "1",
@@ -27,7 +27,7 @@
 "cuinter": "Google",
 "cunative": "Google",
 "cubanner": "Google",
-"extradata": "Google",
+"extradata": {},
 "intertoappopen": true,
 "onetoone": true,
 "vpn": true,
