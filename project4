@@ -27,10 +27,12 @@
 "cuinter": "Google",
 "cunative": "Google",
 "cubanner": "Google",
-"extradata": {},
+"extradata": {
 "intertoappopen": "1",
 "onetoone": "1",
 "vpn": true,
 "url": "",
 "id": ""
+}
+
 }
