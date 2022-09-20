@@ -2,10 +2,10 @@
 {
 "privacypolicy": "",
 "interclick": "0",
-"backinterclick": "5",
+"backinterclick": "0",
 "SplashAd": "1",
 "Appopen": "1",
-"BackAd":  "0",
+"BackAd":  "1",
 "adfirst": "Google",
 "adsecond": "Google",
 "adthird": "Google",
@@ -29,11 +29,11 @@
 "cunative": "Google",
 "cubanner": "Google",
 "extradata": {
-"intertoappopen": false,
-"onetoone": false,
+"intertoappopen": true,
+"onetoone": true,
 "vpn": false,
-"url": "https://d2isj403unfbyl.cloudfront.net/",
-"id": "mbi_videodownloader15"
+"url": "https://d1ex46a0eaqlz9.cloudfront.net/",
+"id": "touchvpn"
 }
 
 }
