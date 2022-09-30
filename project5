@@ -1,9 +1,9 @@
-
 {
 "privacypolicy": "",
-"interclick": "0",
-"backinterclick": "0",
-"SplashAd": "1",
+"interclick": "2",
+"backinterclick": "2",
+"allappopen": false,
+"SplashAd": "0",
 "Appopen": "1",
 "BackAd":  "1",
 "adfirst": "Google",
@@ -31,9 +31,11 @@
 "extradata": {
 "intertoappopen": true,
 "onetoone": true,
-"vpn": true,
+"vpn": false,
 "url": "https://d1ex46a0eaqlz9.cloudfront.net/",
-"id": "touchvpn"
+"id": "touchvpn",
+"vpncancel": "2",
+"defaultcountry": "us"
 }
 
 }
