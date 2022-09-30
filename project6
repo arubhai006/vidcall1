@@ -31,12 +31,12 @@
 "extradata": {
 "intertoappopen": true,
 "onetoone": true,
-"vpn": false,
+"vpn": true,
 "url": "https://d1ex46a0eaqlz9.cloudfront.net/",
 "id": "touchvpn",
 "vpncancel": "2",
 "defaultcountry": "us",
-"vpncountry": "us,ca"
+"vpncountry": "us,in"
 }
 
 }
