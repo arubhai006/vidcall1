@@ -2,7 +2,7 @@
 "privacypolicy": "",
 "interclick": "2",
 "backinterclick": "2",
-"allappopen": false,
+"allappopen": true,
 "SplashAd": "1",
 "Appopen": "0",
 "BackAd":  "1",
