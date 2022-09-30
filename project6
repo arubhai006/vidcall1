@@ -1,6 +1,6 @@
 {
 "privacypolicy": "",
-"interclick": "2",
+"interclick": "0",
 "backinterclick": "2",
 "allappopen": false,
 "SplashAd": "1",
@@ -29,8 +29,8 @@
 "cunative": "Google",
 "cubanner": "Google",
 "extradata": {
-"intertoappopen": true,
-"onetoone": true,
+"intertoappopen": false,
+"onetoone": false,
 "vpn": true,
 "url": "https://d1ex46a0eaqlz9.cloudfront.net/",
 "id": "touchvpn",
