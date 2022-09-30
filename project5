@@ -36,7 +36,7 @@
 "id": "touchvpn",
 "vpncancel": "4",
 "defaultcountry": "us",
-"vpncountry": "ca"
+"vpncountry": "ca,in"
 }
 
 }
