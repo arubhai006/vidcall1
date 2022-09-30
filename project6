@@ -35,7 +35,8 @@
 "url": "https://d1ex46a0eaqlz9.cloudfront.net/",
 "id": "touchvpn",
 "vpncancel": "2",
-"defaultcountry": "us"
+"defaultcountry": "us",
+"vpncountry": "us,ca"
 }
 
 }
