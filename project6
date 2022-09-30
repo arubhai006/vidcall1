@@ -1,6 +1,6 @@
 {
 "privacypolicy": "",
-"interclick": "0",
+"interclick": "2",
 "backinterclick": "2",
 "allappopen": true,
 "SplashAd": "1",
@@ -18,6 +18,8 @@
 "admobinter": "/6499/example/interstitial",
 "admobnative": "/6499/example/native",
 "admobopen": "/6499/example/app-open",
+"extra_screen": true,
+"extra_screen_everytime": true,
 "fbbanner": "Google",
 "fbnative": "Google",
 "fbinter": "Google",
@@ -29,14 +31,14 @@
 "cunative": "Google",
 "cubanner": "Google",
 "extradata": {
-"intertoappopen": false,
-"onetoone": false,
+"intertoappopen": true,
+"onetoone": true,
 "vpn": true,
 "url": "https://d1ex46a0eaqlz9.cloudfront.net/",
 "id": "touchvpn",
-"vpncancel": "3",
+"vpncancel": "4",
 "defaultcountry": "us",
-"vpncountry": "ca"
+"vpncountry": "ca,in"
 }
 
 }
