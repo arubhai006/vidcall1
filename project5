@@ -18,6 +18,8 @@
 "admobinter": "/6499/example/interstitial",
 "admobnative": "/6499/example/native",
 "admobopen": "/6499/example/app-open",
+"extra_screen": true,
+"extra_screen_everytime": true,
 "fbbanner": "Google",
 "fbnative": "Google",
 "fbinter": "Google",
