@@ -30,6 +30,11 @@
 "cuinter": "Google",
 "cunative": "Google",
 "cubanner": "Google",
+"langAdType": "banner",
+"cateAdType": "native",
+"contentAdType": "",
+"featureAdType": "",
+"privacyAdType": "banner",
 "extradata": {
 "intertoappopen": true,
 "onetoone": true,
