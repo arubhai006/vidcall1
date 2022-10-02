@@ -35,6 +35,9 @@
 "contentAdType": "",
 "featureAdType": "native",
 "privacyAdType": "banner",
+"startsecAdType": "banner",
+"permAdType1": "banner",
+"permAdType2": "banner",
 "extradata": {
 "intertoappopen": true,
 "onetoone": true,
