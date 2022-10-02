@@ -38,8 +38,8 @@
 "startsecAdType": "banner",
 "permAdType1": "banner",
 "permAdType2": "banner",
-"adButtonbgColor": "",
-"adButtontextColor": "#000000",
+"adButtonbgColor": "#FF0000",
+"adButtontextColor": "#FFFFFF",
 "extradata": {
 "intertoappopen": true,
 "onetoone": true,
